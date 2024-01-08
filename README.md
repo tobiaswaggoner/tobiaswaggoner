@@ -4,9 +4,9 @@ Software Developer since 1994 (or 1987 to be more precise if you count my first 
 
 Entrepreneur with kind of diverse interests. As a family we are running a software development / consulting company, a campsite, a hotel and a restaurant :-). I personally find it very satisfying to get from the office straight to the barbecue in the evening to create some delicious burgers for the guests for a change instead of super cool new features.
 
-Main technical interests these days: Container architectures / kubernetes, Public and hybrid clouds from a Dev and DevOps perspective (Reactive architectures, CI / CD optimization, APM).
+Main technical interests these days: Artificial Intelligence, especially autonomous agent systems and RAG, Container architectures / kubernetes, Public and hybrid clouds from a Dev and DevOps perspective (Reactive architectures, CI / CD optimization, APM) and XR Development.
 
-Main dev stacks are .NET (Full Stack) and JavaScript / TypeScript (Full Stack) with a focus on backend technology and architecture, but still capable to create some decent react / vueJs / Angular / Blazor / ... front ends.
+Main dev stacks are .NET (Full Stack), Python and JavaScript / TypeScript (Full Stack) with a focus on backend technology and architecture, but still capable to create some decent react / vueJs / Angular / Blazor / ... front ends.
 
 http://www.netzalist.de
 
