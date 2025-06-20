@@ -1,16 +1,26 @@
-👋 Hi, I’m @tobiaswaggoner
+### Hi, I'm Tobias Waggoner 👋
 
-Software Developer since 1994 (or 1987 to be more precise if you count my first commercially successful software (sold for a stunning DM 300, developed at the tender age of 13 :-) ).
+I'm a Senior IT-Consultant, Software Architect, and AI Strategist with 30+ years of hands-on experience in building robust, scalable software systems. I partner with companies to translate business needs into future-proof technology and leverage Generative AI for sustainable value.
 
-Entrepreneur with kind of diverse interests. As a family we are running a software development / consulting company, a campsite, a hotel and a restaurant :-). I personally find it very satisfying to get from the office straight to the barbecue in the evening to create some delicious burgers for the guests for a change instead of super cool new features.
+---
 
-Main technical interests these days: Artificial Intelligence, especially autonomous agent systems and RAG, Container architectures / kubernetes, Public and hybrid clouds from a Dev and DevOps perspective (Reactive architectures, CI / CD optimization, APM) and XR Development.
+### 🔭 My Current Focus
 
-Main dev stacks are .NET (Full Stack), Python and JavaScript / TypeScript (Full Stack) with a focus on backend technology and architecture, but still capable to create some decent react / vueJs / Angular / Blazor / ... front ends.
+* **🤖 AI Strategy & Integration:** Implementing solutions with LLMs, RAG, and Agent-based systems.
+* **🏗️ Cloud & System Architecture:** Designing resilient, high-availability microservice and event-driven architectures.
+* **🚀 DevOps & Automation:** Building and optimizing CI/CD pipelines, containerization (Docker, Kubernetes), and modern observability stacks.
 
-http://www.netzalist.de
+---
 
-<!---
-tobiaswaggoner/tobiaswaggoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 My Core Tech Stack
+
+* **Languages:** C#, Python, TypeScript/JavaScript
+* **Frameworks:** .NET, ASP.NET Core, React, Next.js, Vue.js
+* **Databases:** SQL Server, MongoDB, NoSQL
+* **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Apache Kafka, Terraform, Elastic Stack
+
+---
+
+### 📫 Let's Connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/tobias-waggoner-083063295) or check out my [company website](https://www.netzalist.de).
